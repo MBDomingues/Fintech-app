@@ -11,4 +11,5 @@ During this phase, we implemented the full integration between the **business lo
 🚀 *Ensured efficient and secure data flow between the application and the database!*  
 
 ### project:
-[Project](/Documentation%20of%20phases/Phase%206/projectPhase6/src/main/java/br/com/fintech/)
+this is the link to a part of the project:
+[Project](/Documentation%20of%20phases/Phase%206/projectOfPhase6/src/)
