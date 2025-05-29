@@ -27,6 +27,8 @@ This project was done in partnership with:
 ### Phase 6 - Model 
 <a href="/Documentation of phases/Phase 6/Phase 6.md"> Phase</a>
 
+### Phase 7 - Integration
+<a href=>
 
 
 
