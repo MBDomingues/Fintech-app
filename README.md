@@ -28,7 +28,7 @@ This project was done in partnership with:
 <a href="/Documentation of phases/Phase 6/Phase 6.md"> Phase</a>
 
 ### Phase 7 - Integration
-<a href=>
+<a href= "https://github.com/MBDomingues/fintechProject/tree/main">Phase</a>
 
 
 
